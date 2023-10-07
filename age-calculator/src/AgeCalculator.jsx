@@ -36,8 +36,8 @@ function AgeCalculator() {
   };
 
   return (
-    <div>
-      <h1>Age Calculator</h1>
+    <div className="main">
+      <h1>Madi's Age Calculator</h1>
       <div className="input-container">
         <input
           type="date"
